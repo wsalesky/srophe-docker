@@ -1,0 +1,6 @@
+[submodule "srophe"]
+	path = srophe
+	url = https://github.com/srophe/srophe
+[submodule "srophe-data"]
+	path = srophe-data
+	url = https://github.com/srophe/srophe-app-data
