@@ -1,4 +1,2 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# Mac OS X hidden files
+.DS_Store
