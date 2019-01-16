@@ -11,6 +11,8 @@ Shows auto deploy example: https://github.com/peterstadler/existdb-docker
 
 More complicated example using eXist: https://github.com/sarit/sarit-existdb
 
+Setting admin password example: https://github.com/davidgaya/docker-eXistDB
+
 
 
 
