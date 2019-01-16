@@ -1,0 +1,10 @@
+version: "3"
+services:
+
+  existdb:
+    build: .
+    #command: tail -F /dev/null
+    volumes:
+       - ./data:/opt/exist
+    ports:
+       - 9090:8080 
